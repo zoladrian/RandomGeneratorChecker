@@ -1,0 +1,13 @@
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\Services\QuantumRandomChecker.Services\bin\Debug\netstandard2.1\QuantumRandomChecker.Services.deps.json
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\Services\QuantumRandomChecker.Services\bin\Debug\netstandard2.1\QuantumRandomChecker.Services.dll
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\Services\QuantumRandomChecker.Services\bin\Debug\netstandard2.1\QuantumRandomChecker.Services.pdb
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\Services\QuantumRandomChecker.Services\bin\Debug\netstandard2.1\QuantumRandomChecker.Services.Interfaces.dll
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\Services\QuantumRandomChecker.Services\bin\Debug\netstandard2.1\QuantumRandomChecker.Services.Interfaces.pdb
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\Services\QuantumRandomChecker.Services\obj\Debug\netstandard2.1\QuantumRandomChecker.Services.csproj.AssemblyReference.cache
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\Services\QuantumRandomChecker.Services\obj\Debug\netstandard2.1\QuantumRandomChecker.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\Services\QuantumRandomChecker.Services\obj\Debug\netstandard2.1\QuantumRandomChecker.Services.AssemblyInfoInputs.cache
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\Services\QuantumRandomChecker.Services\obj\Debug\netstandard2.1\QuantumRandomChecker.Services.AssemblyInfo.cs
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\Services\QuantumRandomChecker.Services\obj\Debug\netstandard2.1\QuantumRandomChecker.Services.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\Services\QuantumRandomChecker.Services\obj\Debug\netstandard2.1\QuantumRandomChecker.Services.csproj.CopyComplete
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\Services\QuantumRandomChecker.Services\obj\Debug\netstandard2.1\QuantumRandomChecker.Services.dll
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\Services\QuantumRandomChecker.Services\obj\Debug\netstandard2.1\QuantumRandomChecker.Services.pdb

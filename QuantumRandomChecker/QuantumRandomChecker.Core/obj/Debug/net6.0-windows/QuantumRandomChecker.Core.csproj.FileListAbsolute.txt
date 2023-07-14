@@ -1,0 +1,16 @@
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\QuantumRandomChecker.Core\obj\Debug\net6.0-windows\QuantumRandomChecker.Core.csproj.AssemblyReference.cache
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\QuantumRandomChecker.Core\obj\Debug\net6.0-windows\QuantumRandomChecker.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\QuantumRandomChecker.Core\obj\Debug\net6.0-windows\QuantumRandomChecker.Core.AssemblyInfoInputs.cache
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\QuantumRandomChecker.Core\obj\Debug\net6.0-windows\QuantumRandomChecker.Core.AssemblyInfo.cs
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\QuantumRandomChecker.Core\obj\Debug\net6.0-windows\QuantumRandomChecker.Core.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\QuantumRandomChecker.Core\bin\Debug\net6.0-windows\Accord.dll.config
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\QuantumRandomChecker.Core\bin\Debug\net6.0-windows\QuantumRandomChecker.Core.deps.json
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\QuantumRandomChecker.Core\bin\Debug\net6.0-windows\QuantumRandomChecker.Core.dll
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\QuantumRandomChecker.Core\bin\Debug\net6.0-windows\QuantumRandomChecker.Core.pdb
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\QuantumRandomChecker.Core\bin\Debug\net6.0-windows\QuantumRandomChecker.Abstraction.dll
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\QuantumRandomChecker.Core\bin\Debug\net6.0-windows\QuantumRandomChecker.Abstraction.pdb
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\QuantumRandomChecker.Core\obj\Debug\net6.0-windows\QuantumRandomChecker.Core.csproj.CopyComplete
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\QuantumRandomChecker.Core\obj\Debug\net6.0-windows\QuantumRandomChecker.Core.dll
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\QuantumRandomChecker.Core\obj\Debug\net6.0-windows\refint\QuantumRandomChecker.Core.dll
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\QuantumRandomChecker.Core\obj\Debug\net6.0-windows\QuantumRandomChecker.Core.pdb
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\QuantumRandomChecker.Core\obj\Debug\net6.0-windows\ref\QuantumRandomChecker.Core.dll

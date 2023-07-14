@@ -1,0 +1,12 @@
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QantumRandomChecker.Abstraction\bin\Debug\net6.0\QuantumRandomChecker.Abstraction.deps.json
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QantumRandomChecker.Abstraction\bin\Debug\net6.0\QuantumRandomChecker.Abstraction.dll
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QantumRandomChecker.Abstraction\bin\Debug\net6.0\QuantumRandomChecker.Abstraction.pdb
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QantumRandomChecker.Abstraction\obj\Debug\net6.0\QuantumRandomChecker.Abstraction.csproj.AssemblyReference.cache
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QantumRandomChecker.Abstraction\obj\Debug\net6.0\QuantumRandomChecker.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QantumRandomChecker.Abstraction\obj\Debug\net6.0\QuantumRandomChecker.Abstraction.AssemblyInfoInputs.cache
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QantumRandomChecker.Abstraction\obj\Debug\net6.0\QuantumRandomChecker.Abstraction.AssemblyInfo.cs
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QantumRandomChecker.Abstraction\obj\Debug\net6.0\QuantumRandomChecker.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QantumRandomChecker.Abstraction\obj\Debug\net6.0\QuantumRandomChecker.Abstraction.dll
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QantumRandomChecker.Abstraction\obj\Debug\net6.0\refint\QuantumRandomChecker.Abstraction.dll
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QantumRandomChecker.Abstraction\obj\Debug\net6.0\QuantumRandomChecker.Abstraction.pdb
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QantumRandomChecker.Abstraction\obj\Debug\net6.0\ref\QuantumRandomChecker.Abstraction.dll

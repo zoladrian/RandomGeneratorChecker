@@ -1,0 +1,10 @@
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\Services\QuantumRandomChecker.Services.Interfaces\bin\Debug\netstandard2.1\QuantumRandomChecker.Services.Interfaces.deps.json
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\Services\QuantumRandomChecker.Services.Interfaces\bin\Debug\netstandard2.1\QuantumRandomChecker.Services.Interfaces.dll
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\Services\QuantumRandomChecker.Services.Interfaces\bin\Debug\netstandard2.1\QuantumRandomChecker.Services.Interfaces.pdb
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\Services\QuantumRandomChecker.Services.Interfaces\obj\Debug\netstandard2.1\QuantumRandomChecker.Services.Interfaces.csproj.AssemblyReference.cache
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\Services\QuantumRandomChecker.Services.Interfaces\obj\Debug\netstandard2.1\QuantumRandomChecker.Services.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\Services\QuantumRandomChecker.Services.Interfaces\obj\Debug\netstandard2.1\QuantumRandomChecker.Services.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\Services\QuantumRandomChecker.Services.Interfaces\obj\Debug\netstandard2.1\QuantumRandomChecker.Services.Interfaces.AssemblyInfo.cs
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\Services\QuantumRandomChecker.Services.Interfaces\obj\Debug\netstandard2.1\QuantumRandomChecker.Services.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\Services\QuantumRandomChecker.Services.Interfaces\obj\Debug\netstandard2.1\QuantumRandomChecker.Services.Interfaces.dll
+C:\Users\Adrian\source\repos\QuantumRandomChecker\QuantumRandomChecker\Services\QuantumRandomChecker.Services.Interfaces\obj\Debug\netstandard2.1\QuantumRandomChecker.Services.Interfaces.pdb

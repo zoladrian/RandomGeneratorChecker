@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuantumRandomChecker", "QuantumRandomChecker\QuantumRandomChecker\QuantumRandomChecker.csproj", "{5BB76BD8-AA29-4B43-9D08-CF790669964D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuantumRandomChecker.Core", "QuantumRandomChecker\QuantumRandomChecker.Core\QuantumRandomChecker.Core.csproj", "{C24884FA-8BDE-48E6-AF25-F0FBC1B5452A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantumRandomChecker.Abstraction", "QantumRandomChecker.Abstraction\QuantumRandomChecker.Abstraction.csproj", "{5F303C4C-415B-4BC7-BC72-ACA7F24DDF5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BB76BD8-AA29-4B43-9D08-CF790669964D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BB76BD8-AA29-4B43-9D08-CF790669964D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BB76BD8-AA29-4B43-9D08-CF790669964D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BB76BD8-AA29-4B43-9D08-CF790669964D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C24884FA-8BDE-48E6-AF25-F0FBC1B5452A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C24884FA-8BDE-48E6-AF25-F0FBC1B5452A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C24884FA-8BDE-48E6-AF25-F0FBC1B5452A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C24884FA-8BDE-48E6-AF25-F0FBC1B5452A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F303C4C-415B-4BC7-BC72-ACA7F24DDF5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F303C4C-415B-4BC7-BC72-ACA7F24DDF5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F303C4C-415B-4BC7-BC72-ACA7F24DDF5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F303C4C-415B-4BC7-BC72-ACA7F24DDF5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9AC7A4F-8E72-4188-BB4C-6D5E4BBC79D6}
+	EndGlobalSection
+EndGlobal

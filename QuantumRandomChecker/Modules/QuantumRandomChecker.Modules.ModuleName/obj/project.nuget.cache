@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "C41rEjMJoJuHGb6vLBCntmnLm1cbTsi5acDOUs4MidAhZYxwjEOrJLgPVQmfmVrinipfgo4AfCu1kklVp+5HYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adrian\\source\\repos\\QuantumRandomChecker\\QuantumRandomChecker\\Modules\\QuantumRandomChecker.Modules.ModuleName\\QuantumRandomChecker.Modules.ModuleName.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adrian\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512",
+    "C:\\Users\\Adrian\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
+    "C:\\Users\\Adrian\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
+    "C:\\Users\\Adrian\\.nuget\\packages\\prism.wpf\\8.1.97\\prism.wpf.8.1.97.nupkg.sha512"
+  ],
+  "logs": []
+}
